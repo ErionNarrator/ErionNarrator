@@ -5,11 +5,7 @@
 </p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,rider,visualstudio,vscode,webstorm,androidstudio"/>
-</p>
-  
+</p>  
 </div>
 
 ## Stats
